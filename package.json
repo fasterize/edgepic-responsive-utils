@@ -1,7 +1,7 @@
 {
-  "name": "cloudimage-responsive-utils",
+  "name": "edgepic-responsive-utils",
   "version": "2.4.9",
-  "description": "cloudimage responsive utils",
+  "description": "edgepic responsive utils",
   "main": "dist/index.js",
   "scripts": {
     "clean-dist": "rm -rf dist",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scaleflex/cloudimage-responsive-utils.git"
+    "url": "git+https://github.com/fasterize/edgepic-responsive-utils.git"
   },
-  "author": "Scaleflex",
+  "author": "Fasterize",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scaleflex/cloudimage-responsive-utils/issues"
+    "url": "https://github.com/fasterize/edgepic-responsive-utils/issues"
   },
-  "homepage": "https://github.com/scaleflex/cloudimage-responsive-utils#readme",
+  "homepage": "https://github.com/fasterize/edgepic-responsive-utils#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
     "@babel/core": "^7.0.0",
